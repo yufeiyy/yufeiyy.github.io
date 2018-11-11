@@ -1,0 +1,52 @@
+
+.my-card-title {
+	color:#d16710;
+	font-size: 50px;
+}
+
+h1{
+	color:#d16710;
+	font-size: 65px;
+	text-align:center;
+}
+
+.text-italics{
+	font-size: 20px;
+	color: #d38647;
+
+}
+
+.chide{
+	font-size: 45px
+	font-style: italic;
+	color: #d38647;
+	text-align:center;
+
+}
+
+h2{
+	color:#e55b2d;
+	font-size: 50px;
+	text-align:center;
+}
+
+h3{
+	color:#d16710;
+	font-size: 40px;
+	text-align:center;
+}
+
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.left {
+  background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541962053120&di=186b4b1a62d0465332c320829a2782cc&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2018-09-18%2F5ba063cee442f.jpg) no-repeat center; 
+  background-size: cover;
+  height: 2500px;
+  position: relative;
+}
+
+.centerimg{
+	margin: 0 auto;
+}
